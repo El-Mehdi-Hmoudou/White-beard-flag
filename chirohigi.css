@@ -1,0 +1,151 @@
+.on{
+    width: 20px;
+    height: 200px;
+    background-color: black;
+    
+    margin-left: 250px;
+    
+}
+
+.two{
+    width: 20px;
+    height: 200px;
+    background-color: black;
+    transform: rotate(90deg);
+    margin-left: 250px;
+    margin-top: -200px;
+}
+
+.all{
+    margin-top: 70px;
+
+
+}
+
+.five{
+    width: 20px;
+    height: 20px;
+    background-color: black; 
+    border-radius: 50%;   
+    margin-left: 256px;
+    margin-top: -220px;
+}
+.six{
+    width: 20px;
+    height: 20px;
+    background-color: black; 
+    border-radius: 50%;   
+    margin-left: 243px;
+    margin-top: -20px;    
+}
+.foor{
+    width: 20px;
+    height: 20px;
+    background-color: black; 
+    border-radius: 50%;
+    margin-left: 256px;
+    margin-top: -13px;
+}
+
+.tree{
+    width: 20px;
+    height: 20px;
+    background-color: black; 
+    border-radius: 50%;
+    margin-left: 242px;
+    margin-top: -20px;
+}
+
+.ww{
+    width: 20px;
+    height: 20px;
+    background-color: black; 
+    border-radius: 50%;
+    margin-left: 151px;
+    margin-top: 75px;   
+}
+.vv{
+    width: 20px;
+    height: 20px;
+    background-color: black; 
+    border-radius: 50%;
+    margin-left: 151px;
+    margin-top: -4px;      
+}
+
+.aa{
+    width: 20px;
+    height: 20px;
+    background-color: black; 
+    border-radius: 50%;
+
+    
+}
+
+.ss{
+    width: 20px;
+    height: 20px;
+    background-color: black; 
+    border-radius: 50%;
+    margin-top: -7px;  
+    
+}
+
+.gg{
+    margin-left: 353px;
+    margin-top: -35px;  
+    
+}
+
+.bb{
+    width: 150px;
+    height: 130px;
+    background-color: rgb(131, 12, 211);
+    transform: rotate(0deg);
+    margin-left: 182px;
+    margin-top: -78px;
+    clip-path: path('M 80 220 L 16,72 A 5,5 114,1,1 141,73 L 80 204 z');    
+    z-index: 3;
+}
+
+.ee{
+    width: 20px;
+    height: 20px;
+    background-color:wheat; 
+    border-radius: 0% 100% 0% 100% / 0% 100% 0% 100% ;
+    margin-left: 220px;
+    margin-top: -100px;
+    position: absolute;
+
+}
+
+.rr{
+    width: 20px;
+    height: 20px;
+    background-color:wheat; 
+    border-radius:0% 100% 0% 100% / 0% 100% 0% 100% ;
+    margin-left: 280px;
+    margin-top: -100px;  
+    position: absolute;
+    transform: rotate(90deg);
+}
+
+.jj{
+    position: absolute;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    background-color: transparent;
+    border-radius: 50%;
+    box-shadow: 25px 10px #494040;
+    transform: rotate(70deg);
+    left: 172px;
+    top: -11px;
+}
+
+.uu{
+    width: 20px;
+    height: 60px;
+    background-color: aquamarine;
+    transform: rotate(90deg);
+}
